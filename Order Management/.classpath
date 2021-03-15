@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/bcmail-jdk15on-1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/bcprov-jdk15on-1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/bctsp-jdk15on-1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/itextpdf-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/Homework3-Database/lib/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/barcodes-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/font-asian-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/forms-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/hyph-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/io-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/kernel-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/layout-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/pdfa-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/pdftest-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/sign-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/styled-xml-parser-7.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/jars/needed/svg-7.1.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
